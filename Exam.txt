@@ -1,0 +1,36 @@
+Tapshiriq: Test sistemi
+
+Umumi melumat:
+Test sisteminde 2 nov istifadechi olsun:
+1) Telebe
+2) Administrator
+
+Telebenin imkanlari:
+- Sistemde qeydiyyat (qeydiyyat zamani username, password, adi, soyadi, ve telefon nomresi qeyd edilsin)
+- Telebe sisteme oz istifadechi adi ve shifresi ile daxil olur
+- Telebe sisteme daxil olub novbeti imkanlardan istifade ede bilsin:
+	- Test kechmek
+	- Evvelki testlerin neticesine baxmaq
+	- Test bitende telebe testin neticesini gormelidi
+		- duzgun cavablarin sayi
+		- duzgun cavablarin %
+		- qiymet (1-12 arasi)
+	- Telebe testi kechen zaman testi dayandirmaq imkani ve sonra istenilen zaman bu testi davam etmek
+	
+Administratorun imkanlari:
+- Proqram ilk defe achilanda administrator uchun istifadechi adi ve shifre daxil etmek
+- Administrator sisteme oz istifadechi adini ve shifresi ile daxil olur
+- Oz shifresini ve diger istifadechilerin shifrelerini deyishmek
+- Sisteme telebe elave etmek
+- Yeni test elave etmek. Test elave edende novbeti melumati daxil edir:
+	- Kateqoriya
+	- Testin adi
+	- Testin suallari ve variantlari (duzgun cavabi da qeyd edin)
+- Statistika: 
+	- Sistemde olan umumi testlerin sayi
+	- Qeydiyyatdan kechen telebelerin sayi
+	- Test cehdlerin sayi
+	- Ugurlu/ugursuz testlerin sayi
+	
+DIQQET: BUTUN MELUMATLAR YADDASHDA QALSIN. PROQRAMI BAGLAYANDA/ACHANDA EVVEL DAXIL EDILEN MELUMATLAR PROQRAMA AVTOMATIK
+YUKLENSIN.

@@ -8,6 +8,6 @@ int main()
 	Account b;
 	b.signUp(a, "Mehemmed", "Memmedov", "+994504473908", "Maqa", "2003");
 	b.signIn(a, "Maqa", "2003");
-
+	//yoxlama
 	system("pause");
 }
